@@ -1,2 +1,5 @@
+
 def fizz_buzz (n):
-    return "fizz buzz"
+     if n % 3 == 0:
+        return "fizz"
+     return "fizz buzz"
